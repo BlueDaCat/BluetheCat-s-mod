@@ -1,0 +1,13 @@
+ammo: {
+	water: waterShot
+	slag: slagShot
+	cryofluid: cryoShot
+	oil: oilShot
+	coldofluidShot: {
+		type: liquidBulletType
+		liquid: coldofluid
+		knockback: 0.7
+		status: freezing
+		statusDuration: 750
+	}
+}
