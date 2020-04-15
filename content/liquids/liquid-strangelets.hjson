@@ -1,0 +1,6 @@
+name: Strangelet
+description: "Very strange. Made from Strange Matter"
+temperature: 0.1
+viscosity: 0.8
+effect: freezing
+color: 0d9c00
