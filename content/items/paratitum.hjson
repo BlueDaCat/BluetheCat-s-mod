@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Paratitum",
+	"description": "useful?",
+	"color": "#641E16 ",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.001
+}
