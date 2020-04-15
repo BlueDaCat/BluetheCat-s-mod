@@ -1,0 +1,1 @@
+{"category":"units","description":"Reaper factory didn't exist it can't hurt you","maxSpawn":10,"name":"Reaper factory","produceTime":1,"requirements":[{"amount":1,"item":"coppinium"},{"amount":1,"item":"titanium"},{"amount":1,"item":"silicon"}],"research":"revenant-factory","size":4,"type":"unitFactory","unitType":"reaper"}

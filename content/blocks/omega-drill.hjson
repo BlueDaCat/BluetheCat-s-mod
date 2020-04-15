@@ -1,0 +1,29 @@
+name: Omega Drill
+description: A hyper ultra strange drill.
+type: Drill
+size: 6
+tier: 30
+consumes: {
+  power: 1
+  liquid: {
+    liquid: cryofluid
+    amount: 0.1
+    booster: true
+  }
+}
+drillTime: 1
+requirements: [
+  titanium/40
+  coppinium/20
+  copper/20
+  thorium/20
+  silicon/20
+  plastanium/20
+  metaglass/20
+  surge-alloy/20
+  phase-fabric/20
+  lead/20
+  graphite/20
+]
+category: production
+research: coppinium-drill

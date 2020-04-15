@@ -1,0 +1,10 @@
+name: Large Coppinium Wall
+description: A large wall made of coppinium.
+type: Wall
+health: 420690
+size: 2
+requirements: [
+  coppinium/80
+]
+category: defense
+research: coppinium-wall

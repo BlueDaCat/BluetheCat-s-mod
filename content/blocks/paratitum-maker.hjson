@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Paratitum Maker
+description: Forces thorium to turn into paratitum. Also employs water because it will make it non-radioactive.
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      thorium/2
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 2
+  }
+}
+requirements: [
+  lead/5
+  thorium/8
+  silicon/6
+  coppinium/5
+]
+category: crafting
+research: combanidator
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: paratitum/2

@@ -1,0 +1,20 @@
+{
+  "name": "sanic",
+  "description": "Sanic",
+  "type": "OverdriveProjector",
+  "consumes": {
+		"power": 1.0,
+  }
+	"research": "overdrive-projector",
+  "category": "effect",
+  "range": 420,
+  "size": 2,
+  "speedBoost": 999999,
+  "speedBoostPhase": 999999,
+  "useTime": 60,
+  "phaseRangeBoost": 140,
+  "requirements": [
+		{ "item": "electric-mineral", "amount": 1 }
+	]
+}
+
