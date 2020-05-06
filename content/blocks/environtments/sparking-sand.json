@@ -1,0 +1,5 @@
+type: floor
+name: Sparking Sand
+itemDrop: spark-sand
+variants: 3
+playerUnmineable: false
