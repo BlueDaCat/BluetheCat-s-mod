@@ -1,0 +1,18 @@
+name: Sanic
+description: Sanic
+type: OverdriveProjector
+consumes: {
+  power: 2
+}
+range: 420 //WEED
+size: 2
+speedBoost: 69420 //lmaoWEED
+phaseBoost: 69420 //lmaoWEED
+useTime: 60
+phaseRangeBoost: 140
+requirements: [
+  electric-mineral/125
+  lead/175
+  plastanium/125
+  silicon/200
+]
