@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Solar Surge panel",
+	"description": "This solar panel one of the best energy generators",
+	"size": 1,
+	"health": 69420,
+    "powerProduction": 69420,
+	"requirements": [
+		{"item": "surge-alloy", "amount": 2},
+		{"item": "lead", "amount": 16},
+		{"item": "silicon", "amount": 13}
+	],
+	"category": "power"
+	"research": "solar-panel"
+}
