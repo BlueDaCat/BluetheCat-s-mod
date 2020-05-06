@@ -1,0 +1,14 @@
+type: UnitFactory
+unitType: reaper
+size: 4
+description: Reaper Factory doesn't exist. It can't hurt you.
+maxSpawn: 2
+name: Reaper Factory
+produceTime: 5000
+requirements: [
+  coppinium/250
+  titanium/175
+  silicon/275
+]
+research: revenant-factory
+category: units
