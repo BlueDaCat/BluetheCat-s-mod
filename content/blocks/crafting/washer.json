@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Washer
+description: Washes phase fabric.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: wet
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      dirty-phase-fabric/1
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 1
+  }
+}
+requirements: [
+  titanium/50
+  thorium/80
+  silicon/60
+  phase-fabric/50
+]
+category: crafting
+research: silicon-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: phase-fabric/1
