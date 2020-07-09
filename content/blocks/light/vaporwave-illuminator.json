@@ -1,7 +1,7 @@
 {
 type: LightBlock
-localizedName: "[#ff00ff]A e s t h e t h i c Illuminator"
-description: "A[#ff00ff] vaporwave illuminator that basically just lights up instantly."
+localizedName: "[#ff00ff]A e s t h e t h i c [accent]Illuminator[]"
+description: "A[#ff00ff] vaporwave illuminator that basically just lights up instantly.[]"
 radius: 20
 hasPower: false
 health: 120
